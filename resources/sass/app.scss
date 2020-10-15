@@ -14,3 +14,39 @@ $fa-font-path:"../webfonts";
 @import '~bootstrap/scss/bootstrap';
 
 @import '~admin-lte/dist/css/adminlte.css';
+
+.router-link-exact-active{
+    background-color: #216b34 !important;
+    color: azure !important;
+}
+
+.blue{
+    color: $blue;
+}
+.indigo{
+    color: $indigo;
+}
+.purple{
+    color: $purple;
+}
+.pink{
+    color: $pink;
+}
+.red{
+    color: $red;
+}
+.orange{
+    color: $orange;
+}
+.yellow{
+    color: $yellow;
+}
+.green{
+    color: $green;
+}
+.teal{
+    color: $teal;
+}
+.cyan{
+    color: $cyan;
+}
